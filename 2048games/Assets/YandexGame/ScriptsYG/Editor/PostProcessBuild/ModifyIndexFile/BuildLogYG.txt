@@ -1,0 +1,2 @@
+Build path: /home/user/Документы/2048Legacy/2048legacys
+Build number: 7

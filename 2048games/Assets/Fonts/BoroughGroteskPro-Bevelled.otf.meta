@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: ea6e7b45321a8b643a58f915d46a0550
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 100
+  forceTextureCase: -1
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Borough Grotesk Pro
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: e642cec4def824542a495db7a2eb973f, type: 3}
+  - {fileID: 12800000, guid: ec31295ed2c50ab4eb8261dc4a9df510, type: 3}
+  - {fileID: 12800000, guid: 290cc804395a8be4aa9c6ee26a429191, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
